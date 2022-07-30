@@ -1,0 +1,79 @@
+header {
+  display: flex;
+  width: 500px;
+  border: 2px solid;
+  justify-content: center;
+  background-color: darksalmon;
+}
+.main {
+  display: flex;
+  width: 500px;
+  border: 2px solid;
+  text-align: center;
+  background-color: lightpink;
+}
+.part-one {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 500px;
+  border: 2px solid;
+  text-align: center;
+  background-color: lightgreen;
+}
+.part-two {
+  width: 300px;
+  border: 2px solid;
+  text-align: center;
+  background-color: blue;
+}
+.also1 {
+  width: 40%;
+  border: 2px solid;
+  margin: 5px;
+  background-color: tomato;
+}
+.also2 {
+  width: 40%;
+  border: 2px solid;
+  margin: 5px;
+  background-color: tomato;
+}
+.also3 {
+  width: 99%;
+  border: 2px solid;
+  margin: 5px;
+  background-color: tomato;
+}
+footer {
+  display: flex;
+  width: 500px;
+  border: 2px solid;
+  justify-content: space-between;
+  background-color: gold;
+}
+.foot1 {
+  width: 100px;
+  border: 2px solid;
+  margin: 7px;
+  background-color: cyan;
+}
+.foot2 {
+  width: 100px;
+  border: 2px solid;
+  margin: 7px;
+  background-color: cyan;
+}
+.foot3 {
+  width: 100px;
+  border: 2px solid;
+  margin: 7px;
+  background-color: cyan;
+}
+.foot4 {
+  width: 100px;
+  border: 2px solid;
+  margin: 7px;
+  background-color: cyan;
+}
